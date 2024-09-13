@@ -1,11 +1,11 @@
 <h2 align="center"><Hello World!👋/></h2>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Outfit&pause=1000&color=2B27F7&width=435&lines=Hi!+I'm+Novak%2C+a+DEV+from+Brazil!;I'm+20+years+old.;Be+welcome!+%3D)" alt="Typing SVG" /></a>
+
 ###
 
 <img align="right" height="150" src="https://imgflip.com/gif/93ezbn"  />
 
 ###
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Outfit&pause=1000&color=2B27F7&width=435&lines=Hi!+I'm+Novak%2C+a+DEV+from+Brazil!;I'm+20+years+old.;Be+welcome!+%3D)" alt="Typing SVG" /></a>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
