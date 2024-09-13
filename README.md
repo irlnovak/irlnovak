@@ -1,5 +1,5 @@
 <h2 align="center"><Hello World!👋/></h2>
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Outfit&pause=1000&color=2B27F7&width=435&lines=Hi!+I'm+Novak%2C+a+DEV+from+Brazil!;I'm+20+years+old.;Be+welcome!+%3D))](https://git.io/typing-svg)
 ###
 
 <img align="right" height="150" src="https://imgflip.com/gif/93ezbn"  />
