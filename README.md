@@ -1,7 +1,7 @@
 <h2 align="center">Hello World!👋</h2>
 
 ###
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Outfit&pause=1000&color=2B27F7&width=435&lines=Hi!+I'm+Sicko%2C+a+DEV+from+Brazil!;I'm+22+years+old.;Be+welcome!+%3D)" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Outfit&pause=1000&color=2B27F7&width=435&lines=Hi!+I'm+F4te%2C+a+DEV+from+Brazil!;I'm+22+years+old.;Be+welcome!+%3D)" alt="Typing SVG" /></a>
 <img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmhxZGQ2MDQwZGgwMmdiOXRra251d3k1Z214NGtxajlmejM4bDlqayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RIoqFFoWUK0GGGHb66/giphy.gif"  />
 
 ###
